@@ -1,0 +1,20 @@
+{
+  "name": "IronManH4X",
+  "version": "1.0.0",
+  "description": "To anime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IRON-M4N/IronManH4X.git"
+  },
+  "author": "IRON-M4N",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.1",
+    "jimp": "^0.22.10",
+    "form-data": "^4.0.0"
+  }
+}
